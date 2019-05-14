@@ -3,22 +3,34 @@
 <p>
     <b>Author: </b> Daniel Heredia Morán <br />
     <b>Date: </b> 14/05/2019 <br />
-    <b>Website: </b> https://daniheredia.com <br />
     <b>Version: </b> 1.0 <br />
+    <b>Website: </b> https://daniheredia.com <br />
+    <b>LinkedIn: </b> https://www.linkedin.com/in/daniel-heredia/ <br />
+    <b>Medium: </b> https://medium.com/@here7  
 </p>
 </div>
 <div>
-    <h1>Appointment Alert<h1>
+    <h1>Appointment Alerts<h1>
     <h2>First Steps</h2>
-    <h3>WEB APP</h3>
+    <hr />
+    <h3>APP</h3>
     <ul>
-        <li>Back-End: REST API - Spring Boot</li>
-        <li>Front-End: Angular2</li>
-        <li>Database will be here</li>
+        <li>Back-End with REST API - Spring Boot <i>( common web & mobile )</i></li>
+        <li>
+        Front-End
+            <ul>
+                <li> Angular2 on Web </li>
+                <li> Ionic on Mobile </li>
+            </ul>
+        </li>
+        <li>Database will be on Backend <i>( common web & mobile )</i></li>
     </ul>
-    <h3>MOBILE APP</h3>
+</div>
+<div>
+    <h2>Technical info</h2>
     <ul>
-        <li>Convert Front-End from simple Angular2 to Ionic</li>
-        <li>Convert Front-End from simple Angular2 to Ionic</li>
+        <li>API Documentation: <i>Asap</i> </li>
+        <li>Gateway: <i>Asap</i> </li>
+        <li>Unit Tests: <i>Asap</i> </li>
     </ul>
 </div>
