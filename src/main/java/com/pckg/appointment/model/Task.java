@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Task {
 
-    private Integer id;
+    private Long id;
     private String name;
     private String description;
     private Date dateCreation;
@@ -13,7 +13,7 @@ public class Task {
      * Future:
      * created by user X
      */
-    public Task(Integer id, String name, String description, Date dateCreation, Date dateTask) {
+    public Task(Long id, String name, String description, Date dateCreation, Date dateTask) {
         this.id = id;
         this.name = name;
         this.description = description;
@@ -21,11 +21,11 @@ public class Task {
         this.dateTask = dateTask;
     }
 
-    public Integer getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
