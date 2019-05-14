@@ -16,9 +16,9 @@
         <li>Front-End: Angular2</li>
         <li>Database will be here</li>
     </ul>
-
     <h3>MOBILE APP</h3>
     <ul>
+        <li>Convert Front-End from simple Angular2 to Ionic</li>
         <li>Convert Front-End from simple Angular2 to Ionic</li>
     </ul>
 </div>
