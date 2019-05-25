@@ -6,8 +6,8 @@
     <b>Version: </b> 1.0 <br />
     <b>Website: </b> https://daniheredia.com <br />
     <b>LinkedIn: </b> https://www.linkedin.com/in/daniel-heredia/ <br />
-    <b>Medium: </b> https://medium.com/@here7  
-    [Frontend system repository](https://github.com/here7/appointment-frontend).
+    <b>Medium: </b> https://medium.com/@here7  <br />
+    <a href="https://github.com/here7/appointment-frontend">Frontend system repository</a>
 </p>
 </div>
 <div>
