@@ -19,11 +19,10 @@
         <li>
         Front-End
             <ul>
-                <li> Angular2 on Web </li>
-                <li> Ionic on Mobile </li>
+                <li> Ionic </li>
             </ul>
         </li>
-        <li>Database will be on Backend <i>( common web & mobile )</i></li>
+        <li>Database will be on Backend</li>
     </ul>
 </div>
 <div>
