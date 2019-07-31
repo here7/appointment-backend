@@ -16,12 +16,7 @@
     <h3>APP</h3>
     <ul>
         <li>Back-End with REST API - Spring Boot <i>( common web & mobile )</i></li>
-        <li>
-        Front-End
-            <ul>
-                <li> Ionic </li>
-            </ul>
-        </li>
+        <li>Front-End with Ionic </li>
         <li>Database will be on Backend</li>
     </ul>
 </div>
