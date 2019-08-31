@@ -1,13 +1,22 @@
 package com.pckg.appointment.model;
 
+import javax.persistence.*;
 import java.util.Date;
 
+@Entity
+@Table(name="tasks")
 public class Task {
 
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY) //auto-increment
     private Integer id;
     private String name;
     private String description;
+
+    @Temporal(TemporalType.TIMESTAMP)
     private Date dateCreation;
+
+    @Temporal(TemporalType.TIMESTAMP)
     private Date dateTask;
     /**
      * Future:
