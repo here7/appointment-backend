@@ -31,7 +31,7 @@ public class TaskController {
         List<Task> listTasks = new ArrayList<>();
         Integer cont = 0;
 
-        listTasks = buildTasksList(2);
+        listTasks = buildTasksList(1);
         for(Task task : listTasks){
             HashMap<String, Object> tempMapTask = new HashMap<String, Object>();
             tempMapTask.put("id",task.getId());
